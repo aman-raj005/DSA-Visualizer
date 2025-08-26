@@ -1,5 +1,5 @@
 import Browsing from "../assets/browsing.png"
-import Jayant from "../assets/jayant.png";
+import Jayant from "../assets/aman.png";
 export default function Navbar() {
     return (
       <div className="bg-gradient-to-r from-pink-500 to-yellow-400 p-4 flex justify-between items-center ">
